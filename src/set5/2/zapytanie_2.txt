@@ -1,0 +1,2 @@
+MATCH (m:Movie)<-[a:ACTED_IN]-(p:Person{name:'Hugo Weaving'})
+RETURN m,p

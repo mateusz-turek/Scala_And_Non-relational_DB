@@ -1,0 +1,1 @@
+MATCH p = (:town{name:'Darjeeling'})-[*{winter:'true'}]->(:peak{name:'Sandakphu'}) WITH p, REDUCE(nodesNumber = 0, a IN NODES(p)| nodesNumber+1) AS p_length WHERE p_length <= 4 RETURN p

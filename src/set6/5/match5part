@@ -1,0 +1,15 @@
+MATCH flights = (la:Airport{name:'LAX'})-[:ORIGIN]-(flight:Flight)-[:DESTINATION]-(a:Airport)
+MERGE (flight)<-[:ASSIGN]-(t:Ticket)
+RETURN flights,t LIMIT 6
+
+MATCH flights = (la:Airport{name:'LAX'})-[:ORIGIN]-(f:Flight)-[*]->(a:Airport)
+MERGE (f)-[:ASSIGN]-(t:Ticket)
+RETURN flights,t limit 30
+
+MATCH path = (la:Airport{name:'LAX'})<-[:ORIGIN]-(f:Flight)-[:DESTINATION]->(a:Airport)
+RETURN path
+
+MATCH flight = (la:Airport{name:'LAX'})<-[:ORIGIN]-(f:Flight)-[d:DESTINATION]->(a:Airport)
+MATCH ticket = (f)<-[:ASSIGN]-(t:Ticket)
+WHERE t.price < 3000
+RETURN flight,t,t.price

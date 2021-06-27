@@ -1,0 +1,1 @@
+MATCH (airport:Airport)-[r:ORIGIN]-(flight:Flight) RETURN airport,COUNT(r) ORDER BY COUNT(r) ASC

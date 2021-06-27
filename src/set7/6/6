@@ -1,0 +1,7 @@
+6: curl -XDELETE http://localhost:8098/buckets/s23101/keys/hobbies -i
+6 odp: HTTP/1.1 204 No Content
+       Vary: Accept-Encoding
+       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+       Date: Sun, 27 Jun 2021 12:18:33 GMT
+       Content-Type: application/x-www-form-urlencoded
+       Content-Length: 0

@@ -1,0 +1,4 @@
+MATCH (m:Movie)<-[a:ACTED_IN]-(coActor:Person)
+MATCH (hugo:Person{name:'Hugo Weaving'})
+WHERE (m)<-[:ACTED_IN]-(hugo)
+RETURN m,coActor

@@ -1,0 +1,22 @@
+[
+  { "_id" : "AZN", "balance" : 394880.17 },
+  { "_id" : "GHS", "balance" : 83159.05 },
+  { "_id" : "IQD", "balance" : 167531.82 },
+  { "_id" : "TWD", "balance" : 37654 },
+  { "_id" : "PYG", "balance" : 286515.48 },
+  { "_id" : "NAD", "balance" : 55420.34 },
+  { "_id" : "TRY", "balance" : 18414.53 },
+  { "_id" : "ISK", "balance" : 39048.74 },
+  { "_id" : "BND", "balance" : 7782.66 },
+  { "_id" : "BMD", "balance" : 5189 },
+  { "_id" : "IRR", "balance" : 804397.05 },
+  { "_id" : "GNF", "balance" : 73222.48 },
+  { "_id" : "DZD", "balance" : 12166.2 },
+  { "_id" : "HTG", "balance" : 215992.13 },
+  { "_id" : "BOB", "balance" : 257433.54 },
+  { "_id" : "HRK", "balance" : 689403.5 },
+  { "_id" : "LYD", "balance" : 197545.65 },
+  { "_id" : "CHF", "balance" : 108940.64 },
+  { "_id" : "WST", "balance" : 30739.64 },
+  { "_id" : "LTL", "balance" : 220627.42 }
+  ]

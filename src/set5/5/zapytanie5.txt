@@ -1,0 +1,4 @@
+MATCH (movie:Movie)<-[a:ACTED_IN]-(actor:Person)
+MATCH (matrix:Movie{title:'The Matrix'})
+WHERE (actor)-[:ACTED_IN]->(matrix)
+RETURN movie,actor

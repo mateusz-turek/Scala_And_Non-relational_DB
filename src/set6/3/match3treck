@@ -1,0 +1,1 @@
+MATCH p = (:town{name:'Darjeeling'})-[:trek*{summer:'true'}]->(trekPlaces)WITH p, REDUCE(nodesNumber = 0, a IN NODES(p)| nodesNumber+1)AS p_length ORDER BY p_length ASC RETURN p, p_length

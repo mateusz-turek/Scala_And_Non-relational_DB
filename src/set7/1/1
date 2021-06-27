@@ -1,0 +1,38 @@
+1:# riak-admin bucket-type create s23101
+2:# riak-admin bucket-type activate s23101
+
+3: curl -XPUT -H "Content_Type: application/json" -d "{'name': 'mat','surname':'tur','age': 26, 'adult': true}" http://localhost:8098/buckets/s23101/keys/PrimaryInfo -i
+
+3 odp: HTTP/1.1 204 No Content
+       Vary: Accept-Encoding
+       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+       Date: Sun, 27 Jun 2021 10:55:04 GMT
+       Content-Type: application/x-www-form-urlencoded
+       Content-Length: 0
+
+4:curl -XPUT -H "Content_Type: application/json" -d "{'country':'Poland','citizenship':true,'bornInCountry':true,'isInUnion':true}" http://localhost:8098/buckets/s23101/keys/Nationality -i
+
+4 odp: HTTP/1.1 204 No Content
+       Vary: Accept-Encoding
+       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+       Date: Sun, 27 Jun 2021 11:23:24 GMT
+       Content-Type: application/x-www-form-urlencoded
+       Content-Length: 0
+
+5:curl -XPUT -H "Content_Type: application/json" -d "{'hobby1':'guitar','hobby2':'fantasy books','hobby3':'video games','hobby4':'horror genre'}" http://localhost:8098/buckets/s23101/keys/Hobbies -i
+
+5 odp: HTTP/1.1 204 No Content
+       Vary: Accept-Encoding
+       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+       Date: Sun, 27 Jun 2021 11:27:59 GMT
+       Content-Type: application/x-www-form-urlencoded
+       Content-Length: 0
+
+6:curl -XPUT -H "Content_Type: application/json" -d "{'game1':'Outlast','game2':'Layers of Fear','game3':'Dark Souls','game4':'Dark Souls III'}" http://localhost:8098/buckets/s23101/keys/FavouriteGames -i
+6 odp:HTTP/1.1 204 No Content
+      Vary: Accept-Encoding
+      Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
+      Date: Sun, 27 Jun 2021 11:35:56 GMT
+      Content-Type: application/x-www-form-urlencoded
+      Content-Length: 0
+

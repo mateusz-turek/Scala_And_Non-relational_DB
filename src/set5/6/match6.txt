@@ -1,0 +1,1 @@
+MATCH (actor:Person)-[acted:ACTED_IN]->(m:Movie) RETURN actor ,count(DISTINCT m.title)

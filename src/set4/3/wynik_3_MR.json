@@ -1,0 +1,14 @@
+{
+  "results" : [
+    {
+      "_id" : null,
+      "value" : [
+        {
+          "jobName" : "salesforce",
+          "occurrences" : 1
+        }
+      ]
+    }
+  ],
+  "ok" : 1
+}

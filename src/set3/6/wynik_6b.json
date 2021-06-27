@@ -1,0 +1,30 @@
+[
+  {
+    "_id" : ObjectId("60d8b76323b3b0528c6e7b5a"),
+    "sex" : "Male",
+    "first_name" : "mat",
+    "last_name" : "tur",
+    "job" : "salesforce",
+    "email" : "sampleemail@vp.pl",
+    "location" : {
+      "city" : "sample_city",
+      "address" : {
+        "streetname" : "streetname",
+        "streetnumber" : "321"
+      }
+    },
+    "description" : "sample",
+    "height" : "176",
+    "weight" : "67",
+    "birth_date" : "1994-08-21T07:46:59Z",
+    "nationality" : "Poland",
+    "credit" : [
+      {
+        "type" : "mastercard",
+        "number" : "1234344543234",
+        "currency" : "PLN",
+        "balance" : "4432.12"
+      }
+    ]
+  }
+]

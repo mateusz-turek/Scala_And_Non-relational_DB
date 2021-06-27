@@ -1,0 +1,516 @@
+{
+  "results" : [
+    {
+      "_id" : "Poland_Female_BGN",
+      "value" : {
+        "wholeBalance" : 21200.88,
+        "avgBalance" : 5300.22
+      }
+    },
+    {
+      "_id" : "Poland_Female_ARS",
+      "value" : {
+        "wholeBalance" : 23242,
+        "avgBalance" : 4648.4
+      }
+    },
+    {
+      "_id" : "Poland_Female_COP",
+      "value" : {
+        "wholeBalance" : 19746.73,
+        "avgBalance" : 4936.6825
+      }
+    },
+    {
+      "_id" : "Poland_Female_VND",
+      "value" : {
+        "wholeBalance" : 36160.259999999995,
+        "avgBalance" : 4520.032499999999
+      }
+    },
+    {
+      "_id" : "Poland_Female_EUR",
+      "value" : {
+        "wholeBalance" : 245091.46999999994,
+        "avgBalance" : 4901.829399999999
+      }
+    },
+    {
+      "_id" : "Poland_Female_MGA",
+      "value" : {
+        "wholeBalance" : 14560.99,
+        "avgBalance" : 4853.663333333333
+      }
+    },
+    {
+      "_id" : "Poland_Female_MAD",
+      "value" : {
+        "wholeBalance" : 3818.85,
+        "avgBalance" : 3818.85
+      }
+    },
+    {
+      "_id" : "Poland_Female_MYR",
+      "value" : {
+        "wholeBalance" : 4781.12,
+        "avgBalance" : 4781.12
+      }
+    },
+    {
+      "_id" : "Poland_Female_MWK",
+      "value" : {
+        "wholeBalance" : 3574.42,
+        "avgBalance" : 3574.42
+      }
+    },
+    {
+      "_id" : "Poland_Female_MKD",
+      "value" : {
+        "wholeBalance" : 3835.05,
+        "avgBalance" : 3835.05
+      }
+    },
+    {
+      "_id" : "Poland_Female_KRW",
+      "value" : {
+        "wholeBalance" : 13379.82,
+        "avgBalance" : 6689.91
+      }
+    },
+    {
+      "_id" : "Poland_Female_RUB",
+      "value" : {
+        "wholeBalance" : 119749.15,
+        "avgBalance" : 4989.547916666666
+      }
+    },
+    {
+      "_id" : "Poland_Female_HRK",
+      "value" : {
+        "wholeBalance" : 24354.82,
+        "avgBalance" : 4870.964
+      }
+    },
+    {
+      "_id" : "Poland_Female_GBP",
+      "value" : {
+        "wholeBalance" : 6149.19,
+        "avgBalance" : 6149.19
+      }
+    },
+    {
+      "_id" : "Poland_Female_AMD",
+      "value" : {
+        "wholeBalance" : 24609.33,
+        "avgBalance" : 4921.866
+      }
+    },
+    {
+      "_id" : "Poland_Female_VUV",
+      "value" : {
+        "wholeBalance" : 6418.27,
+        "avgBalance" : 6418.27
+      }
+    },
+    {
+      "_id" : "Poland_Female_BOB",
+      "value" : {
+        "wholeBalance" : 5263.3,
+        "avgBalance" : 5263.3
+      }
+    },
+    {
+      "_id" : "Poland_Female_ZWL",
+      "value" : {
+        "wholeBalance" : 5792.17,
+        "avgBalance" : 5792.17
+      }
+    },
+    {
+      "_id" : "Poland_Female_SEK",
+      "value" : {
+        "wholeBalance" : 70840.19,
+        "avgBalance" : 5060.013571428572
+      }
+    },
+    {
+      "_id" : "Poland_Female_KZT",
+      "value" : {
+        "wholeBalance" : 3788.95,
+        "avgBalance" : 3788.95
+      }
+    },
+    {
+      "_id" : "Poland_Female_DOP",
+      "value" : {
+        "wholeBalance" : 20674.739999999998,
+        "avgBalance" : 5168.6849999999995
+      }
+    },
+    {
+      "_id" : "Poland_Female_RSD",
+      "value" : {
+        "wholeBalance" : 4276.56,
+        "avgBalance" : 4276.56
+      }
+    },
+    {
+      "_id" : "Poland_Female_NOK",
+      "value" : {
+        "wholeBalance" : 4773.66,
+        "avgBalance" : 4773.66
+      }
+    },
+    {
+      "_id" : "Poland_Female_LYD",
+      "value" : {
+        "wholeBalance" : 8764.99,
+        "avgBalance" : 4382.495
+      }
+    },
+    {
+      "_id" : "Poland_Female_IDR",
+      "value" : {
+        "wholeBalance" : 323922.59,
+        "avgBalance" : 4907.918030303031
+      }
+    },
+    {
+      "_id" : "Poland_Female_MMK",
+      "value" : {
+        "wholeBalance" : 4629.42,
+        "avgBalance" : 4629.42
+      }
+    },
+    {
+      "_id" : "Poland_Female_NZD",
+      "value" : {
+        "wholeBalance" : 5328.46,
+        "avgBalance" : 5328.46
+      }
+    },
+    {
+      "_id" : "Poland_Female_PEN",
+      "value" : {
+        "wholeBalance" : 18644.94,
+        "avgBalance" : 4661.235
+      }
+    },
+    {
+      "_id" : "Poland_Female_TJS",
+      "value" : {
+        "wholeBalance" : 4087.71,
+        "avgBalance" : 4087.71
+      }
+    },
+    {
+      "_id" : "Poland_Female_PHP",
+      "value" : {
+        "wholeBalance" : 118606.27999999998,
+        "avgBalance" : 4941.928333333332
+      }
+    },
+    {
+      "_id" : "Poland_Female_BYR",
+      "value" : {
+        "wholeBalance" : 5095.79,
+        "avgBalance" : 5095.79
+      }
+    },
+    {
+      "_id" : "Poland_Female_RWF",
+      "value" : {
+        "wholeBalance" : 4632.88,
+        "avgBalance" : 4632.88
+      }
+    },
+    {
+      "_id" : "Poland_Female_AFN",
+      "value" : {
+        "wholeBalance" : 16755.49,
+        "avgBalance" : 5585.163333333334
+      }
+    },
+    {
+      "_id" : "Poland_Female_IQD",
+      "value" : {
+        "wholeBalance" : 4269.39,
+        "avgBalance" : 4269.39
+      }
+    },
+    {
+      "_id" : "Poland_Female_MNT",
+      "value" : {
+        "wholeBalance" : 21715.61,
+        "avgBalance" : 5428.9025
+      }
+    },
+    {
+      "_id" : "Poland_Female_NIO",
+      "value" : {
+        "wholeBalance" : 9971.28,
+        "avgBalance" : 4985.64
+      }
+    },
+    {
+      "_id" : "Poland_Female_PYG",
+      "value" : {
+        "wholeBalance" : 4874.69,
+        "avgBalance" : 4874.69
+      }
+    },
+    {
+      "_id" : "Poland_Female_BWP",
+      "value" : {
+        "wholeBalance" : 4076.29,
+        "avgBalance" : 4076.29
+      }
+    },
+    {
+      "_id" : "Poland_Female_KYD",
+      "value" : {
+        "wholeBalance" : 3760.89,
+        "avgBalance" : 3760.89
+      }
+    },
+    {
+      "_id" : "Poland_Female_ETB",
+      "value" : {
+        "wholeBalance" : 5436.11,
+        "avgBalance" : 5436.11
+      }
+    },
+    {
+      "_id" : "Poland_Female_CLP",
+      "value" : {
+        "wholeBalance" : 21008.95,
+        "avgBalance" : 5252.2375
+      }
+    },
+    {
+      "_id" : "Poland_Female_GTQ",
+      "value" : {
+        "wholeBalance" : 5806.3,
+        "avgBalance" : 5806.3
+      }
+    },
+    {
+      "_id" : "Poland_Female_CUP",
+      "value" : {
+        "wholeBalance" : 15017.34,
+        "avgBalance" : 5005.78
+      }
+    },
+    {
+      "_id" : "Poland_Female_CAD",
+      "value" : {
+        "wholeBalance" : 58375.6,
+        "avgBalance" : 5306.872727272727
+      }
+    },
+    {
+      "_id" : "Poland_Female_ZMW",
+      "value" : {
+        "wholeBalance" : 5569.56,
+        "avgBalance" : 5569.56
+      }
+    },
+    {
+      "_id" : "Poland_Female_XOF",
+      "value" : {
+        "wholeBalance" : 17882.05,
+        "avgBalance" : 5960.683333333333
+      }
+    },
+    {
+      "_id" : "Poland_Female_USD",
+      "value" : {
+        "wholeBalance" : 74680.98000000001,
+        "avgBalance" : 4978.732000000001
+      }
+    },
+    {
+      "_id" : "Poland_Female_TZS",
+      "value" : {
+        "wholeBalance" : 7052.370000000001,
+        "avgBalance" : 3526.1850000000004
+      }
+    },
+    {
+      "_id" : "Poland_Female_XAF",
+      "value" : {
+        "wholeBalance" : 14094.660000000002,
+        "avgBalance" : 4698.22
+      }
+    },
+    {
+      "_id" : "Poland_Female_PLN",
+      "value" : {
+        "wholeBalance" : 90770.77999999998,
+        "avgBalance" : 5042.82111111111
+      }
+    },
+    {
+      "_id" : "Poland_Female_JPY",
+      "value" : {
+        "wholeBalance" : 60944.74,
+        "avgBalance" : 5078.7283333333335
+      }
+    },
+    {
+      "_id" : "Poland_Female_MXN",
+      "value" : {
+        "wholeBalance" : 50228.99999999999,
+        "avgBalance" : 5022.9
+      }
+    },
+    {
+      "_id" : "Poland_Female_YER",
+      "value" : {
+        "wholeBalance" : 13712.5,
+        "avgBalance" : 4570.833333333333
+      }
+    },
+    {
+      "_id" : "Poland_Female_NPR",
+      "value" : {
+        "wholeBalance" : 5792.26,
+        "avgBalance" : 5792.26
+      }
+    },
+    {
+      "_id" : "Poland_Female_UAH",
+      "value" : {
+        "wholeBalance" : 40471.840000000004,
+        "avgBalance" : 5058.9800000000005
+      }
+    },
+    {
+      "_id" : "Poland_Female_VEF",
+      "value" : {
+        "wholeBalance" : 8333.28,
+        "avgBalance" : 4166.64
+      }
+    },
+    {
+      "_id" : "Poland_Female_CDF",
+      "value" : {
+        "wholeBalance" : 12228.8,
+        "avgBalance" : 6114.4
+      }
+    },
+    {
+      "_id" : "Poland_Female_ISK",
+      "value" : {
+        "wholeBalance" : 4316.41,
+        "avgBalance" : 4316.41
+      }
+    },
+    {
+      "_id" : "Poland_Female_IRR",
+      "value" : {
+        "wholeBalance" : 26504.24,
+        "avgBalance" : 4417.373333333334
+      }
+    },
+    {
+      "_id" : "Poland_Female_PKR",
+      "value" : {
+        "wholeBalance" : 18938,
+        "avgBalance" : 4734.5
+      }
+    },
+    {
+      "_id" : "Poland_Female_CNY",
+      "value" : {
+        "wholeBalance" : 470700.38000000006,
+        "avgBalance" : 4954.740842105264
+      }
+    },
+    {
+      "_id" : "Poland_Female_UZS",
+      "value" : {
+        "wholeBalance" : 3573.03,
+        "avgBalance" : 3573.03
+      }
+    },
+    {
+      "_id" : "Poland_Female_CZK",
+      "value" : {
+        "wholeBalance" : 37156.420000000006,
+        "avgBalance" : 4644.552500000001
+      }
+    },
+    {
+      "_id" : "Poland_Female_THB",
+      "value" : {
+        "wholeBalance" : 23021.96,
+        "avgBalance" : 4604.392
+      }
+    },
+    {
+      "_id" : "Poland_Female_BRL",
+      "value" : {
+        "wholeBalance" : 49632.020000000004,
+        "avgBalance" : 4512.001818181819
+      }
+    },
+    {
+      "_id" : "Poland_Female_ALL",
+      "value" : {
+        "wholeBalance" : 3325.48,
+        "avgBalance" : 3325.48
+      }
+    },
+    {
+      "_id" : "Poland_Female_HNL",
+      "value" : {
+        "wholeBalance" : 16514.59,
+        "avgBalance" : 5504.863333333334
+      }
+    },
+    {
+      "_id" : "Poland_Female_XPF",
+      "value" : {
+        "wholeBalance" : 4759.07,
+        "avgBalance" : 4759.07
+      }
+    },
+    {
+      "_id" : "Poland_Female_ILS",
+      "value" : {
+        "wholeBalance" : 16295.489999999998,
+        "avgBalance" : 5431.829999999999
+      }
+    },
+    {
+      "_id" : "Poland_Female_SRD",
+      "value" : {
+        "wholeBalance" : 5286.68,
+        "avgBalance" : 5286.68
+      }
+    },
+    {
+      "_id" : "Poland_Female_ZAR",
+      "value" : {
+        "wholeBalance" : 11790.92,
+        "avgBalance" : 3930.306666666667
+      }
+    },
+    {
+      "_id" : "Poland_Female_EGP",
+      "value" : {
+        "wholeBalance" : 5579.3,
+        "avgBalance" : 5579.3
+      }
+    },
+    {
+      "_id" : "Poland_Female_NGN",
+      "value" : {
+        "wholeBalance" : 24946.23,
+        "avgBalance" : 4157.705
+      }
+    }
+  ],
+  "ok" : 1
+}
