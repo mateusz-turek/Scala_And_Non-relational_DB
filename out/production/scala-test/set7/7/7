@@ -1,9 +1,0 @@
-7: curl http://localhost:8098/buckets/s23101/keys/nonExist -i
-7 odp: HTTP/1.1 404 Object Not Found
-       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
-       Date: Sun, 27 Jun 2021 12:21:55 GMT
-       Content-Type: text/plain
-       Content-Length: 10
-
-       not found
-

@@ -1,8 +1,0 @@
-8:curl -XPOST -H "Content_Type: application/json" -d "{'withoutKey': true}" http://localhost:8098/buckets/s23101/keys -i
-8 odp: HTTP/1.1 201 Created
-       Vary: Accept-Encoding
-       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
-       Location: /buckets/s23101/keys/VrZJ3S78YyiqKlBdnWupbgbEc84
-       Date: Sun, 27 Jun 2021 12:25:52 GMT
-       Content-Type: application/x-www-form-urlencoded
-       Content-Length: 0

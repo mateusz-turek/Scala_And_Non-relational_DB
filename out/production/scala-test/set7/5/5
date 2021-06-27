@@ -1,7 +1,0 @@
-5: curl -XPUT -H "Content_Type: application/json" -d "{'name': 'Mateusz','surname':'Turek', 'adult': true, 'dateOfBirth':'1994-Sep-07'}" http://localhost:8098/buckets/s23101/keys/PrimaryInfo -i
-5 odp: HTTP/1.1 204 No Content
-       Vary: Accept-Encoding
-       Server: MochiWeb/1.1 WebMachine/1.10.9 (cafe not found)
-       Date: Sun, 27 Jun 2021 12:14:46 GMT
-       Content-Type: application/x-www-form-urlencoded
-       Content-Length: 0
