@@ -44,8 +44,8 @@ object Main {
       set1.Task1.apply().Constants.daysList))
     println("4c")
     println("5")
-    println(Task5.apply().getProductToPriceMapWithTenPercentDiscount(
-      Task5.apply().Constants.PRODUCT_TO_PRICE_MAP))
+    println(set1.Task5.apply().getProductToPriceMapWithTenPercentDiscount(
+      set1.Task5.apply().Constants.PRODUCT_TO_PRICE_MAP))
     println("5")
     println("6")
     println(Task6.apply().tupleIncomingArgumentFunction(
@@ -53,7 +53,7 @@ object Main {
     println("6")
     println("7")
     println(Task7.apply().optionMechanismOnProductPriceMap(
-      Task5.apply().Constants.PRODUCT_TO_PRICE_MAP))
+      set1.Task5.apply().Constants.PRODUCT_TO_PRICE_MAP))
     println("7")
     println("8")
     println(Task8.apply().removeZerosFromListWithRecursion(
@@ -93,6 +93,9 @@ object Main {
     println(set2.Task4.apply().tripleFunctionUsage(1,
       set2.Task4.apply().Constants.sumNumberWithItself))
     println("4")
+    println("5")
+    println(set2.Task5.apply().createOsoba2())
+    println("5")
   }
 }
 
